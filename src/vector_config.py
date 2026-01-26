@@ -2,7 +2,7 @@ QUESTIONS = {
     "artist-scientist": "Artistic or scientific?", 
     "planner-spontaneous": "Planner or spontaneous?",
     "library-gym": "Library or gym?",
-    "wolf-pack-lone-wolf": "Wolf pack or lone wolf?",
+    "wolfpack-lonewolf": "Wolf pack or lone wolf?",
     "volunteer-leader": "Volunteer or leader?",
     "optimist-realist": "Optimist or realist?",
     "anxious-calm": "Anxious or calm?",
@@ -24,7 +24,7 @@ ASTROFUSIONER = {
     "artist-scientist": [0.2, 1],
     "planner-spontaneous": [-1, -0.2],
     "library-gym": [-0.2, 0.2],
-    "wolf-pack-lone-wolf": [-0.2, 0.2],
+    "wolfpack-lonewolf": [-0.2, 0.2],
     "volunteer-leader": [0.2, 1],
     "optimist-realist": [0.2, 1],
     "anxious-calm": [-0.2, 0.2]
@@ -35,7 +35,7 @@ ESSENTROMANCER = {
     "artist-scientist": [-0.2, 0.2],
     "planner-spontaneous": [0.2, 1],
     "library-gym": [0.2, 1],
-    "wolf-pack-lone-wolf": [-1, -0.2],
+    "wolfpack-lonewolf": [-1, -0.2],
     "volunteer-leader": [-0.2, 0.2],
     "optimist-realist": [-1, -0.2],
     "anxious-calm": [-1, -0.2]
@@ -46,7 +46,7 @@ INTERGRAPH = {
     "artist-scientist": [-1, -0.2],
     "planner-spontaneous": [-0.2, 0.2],
     "library-gym": [-1, -0.2],
-    "wolf-pack-lone-wolf": [0.2, 1],
+    "wolfpack-lonewolf": [0.2, 1],
     "volunteer-leader": [-1, -0.2],
     "optimist-realist": [-0.2, 0.2],
     "anxious-calm": [0.2, 1]
