@@ -1,7 +1,6 @@
 from src.vector_config import QUESTIONS
 
 def get_user_answers():
-
     user_answers = {}
     for key, value in list(QUESTIONS.items()):
         print(f"Which term suits you best: {value}")
