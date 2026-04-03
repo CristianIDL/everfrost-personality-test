@@ -2,7 +2,7 @@
 src/load_dataset.py: Procesamiento del dataset de vectores de características. 
 '''
 
-from src.save_features import save_features
+from save_features import save_features
 import numpy as np
 import pandas as pd
 import time
