@@ -20,7 +20,9 @@ def train_model(data,knn_k=3):
         X, 
         y, 
         random_state=42,
-        test_size=0.2,)
+        test_size=0.2,
+        stratify=y
+    )
     
     # Crear el modelo KNN
     knn = KNeighborsClassifier(n_neighbors=knn_k, metric='euclidean', weights='distance')
